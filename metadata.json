@@ -1,0 +1,6 @@
+{
+  "name": "QМЖ AI — №130 бұйрыққа сәйкес ҚМЖ құрастырушы",
+  "description": "Қазақстан мектебінің ҚМЖ форматына (№130 бұйрық) сәйкес сабақ жоспарын AI көмегімен жылдам жасау құралы",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
